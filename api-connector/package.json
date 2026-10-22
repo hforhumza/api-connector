@@ -1,0 +1,13 @@
+{
+  "name": "cloudways-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudways unified dashboard prototype (static pages served by a tiny Node server)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
